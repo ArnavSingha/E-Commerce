@@ -1,8 +1,7 @@
 # E-Commerce
  
 # ![php](https://img.shields.io/badge/Php-8993BE?style=for-the-badge&logo=php&logoColor=white) E-commerce Website
-E-commerce web application built using php routing. Instead of relying on the web server to map the request path to a file, all requests are forwarded to [index.php](/index.php) which has defined routes and callbacks registered to each route. If the request URI is a valid route, the callback returns a page to the user else, redirected to the 404 page.
-
+Introducing a professional-grade Online Ecommerce Website Project in PHP MySQL. Harness the capabilities of an advanced admin panel to effortlessly manage products, orders, and customers. Experience a polished and user-friendly interface, designed with Bootstrap and Vanilla CSS to ensure a seamless user experience. This project serves as an invaluable resource for learning and development, allowing you to delve into the intricacies of eCommerce website architecture. The GitHub repository provides access to the code, enabling you to explore its features and functionalities in detail. Elevate your eCommerce endeavors with this professional project and build a successful online platform.
 [Live Demo]()
 
 ## Features
