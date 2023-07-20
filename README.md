@@ -6,15 +6,30 @@ E-commerce web application built using php routing. Instead of relying on the we
 [Live Demo]()
 
 ## Features
-- Login and registration system
-- Password reset
-- Ordering system
-- Update profile
-- Order history
-- CSRF protection
-- Input sanitisation
-- Sends invoice to user's email using
-- Livechat 
+- Client-Side Interaction
+- Admin Panel
+- Customer Registration
+- Add to Cart System
+- Checkout System
+- Update Billing Address
+- Search, Filter Products
+- Product Categories
+- Featured Products
+- Latest Products
+- Popular Products
+- View Order History
+- Update Customer Profile
+- Manage Website Settings
+- Manage Shop Settings
+- Product Management
+- Order Management
+- Pending Orders, Shippings
+- Set up Image Sliders
+- Set Shipping Charges
+- Page Settings
+- Set Social Media Links
+- Subscribers
+- View Registered Customers
     #### Admin Panel
 - Create, modify and delete products, customers and faq
 - Unlimited product pictures
